@@ -1,0 +1,18 @@
+{
+    "name": "circuit-playground-bg",
+    "version": "1.0.0",
+    "description": "Circuit Playground style background for MakeCode Arcade",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "targetVersions": {
+        "target": "arcade",
+        "targetVersion": "1.0.0"
+    },
+    "supportedTargets": ["arcade"],
+    "preferredEditor": "ts"
+}
