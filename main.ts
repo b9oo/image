@@ -4,7 +4,7 @@ namespace circuitPlayground {
      */
     //% block="set circuit playground background"
     //% group="Backgrounds"
-    //% weight=100
+    //% weight=100 color="#249CA3" icon="\uf1e6"
     export function setCircuitPlaygroundBackground() {
         scene.setBackgroundImage(img`
 ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbebbbbebbbbbbb
